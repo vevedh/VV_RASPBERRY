@@ -1,0 +1,29 @@
+INFO:   Connected to gateway.
+INFO:   Authenticated.
+INFO:   Remote gateway has allocated a VPN.
+WARN:   No gateway address, using interface for routing
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+INFO:   Got addresses: [10.221.134.51], ns [10.21.0.1, 10.22.0.1]
+ERROR:  read: Input/output error
+INFO:   Cancelling threads...
+INFO:   Terminated pppd.
+INFO:   Closed connection to gateway.
+INFO:   Logged out.
